@@ -1,0 +1,22 @@
+{
+  "name": "jsontoresx",
+  "version": "1.0.0",
+  "description": "Convert json files to resx files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamaSLK/jsontoresx.git"
+  },
+  "author": "RamaSLK",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/RamaSLK/jsontoresx/issues"
+  },
+  "homepage": "https://github.com/RamaSLK/jsontoresx#readme",
+  "dependencies": {
+    "resx": "^2.0.3"
+  }
+}
